@@ -1,6 +1,10 @@
 target
+.*.sw?
+*~
+*.bak
 .project
 .settings/
+/local*
 generator/.classpath
 generator/.project
 generator/.settings/
@@ -18,4 +22,3 @@ testharness/.settings/
 xsdlib/.classpath
 xsdlib/.project
 xsdlib/.settings/
-
